@@ -21,6 +21,8 @@ tags:
 
 # Verified Claude Code Skills for Cisco Datacenter & AI Architects
 
+> 📋 **Full reference table (all identified skills, including pending):** [Claude Code Skills — Full Reference Table](/claude_skills/2026/04/30/claude-skills-reference-table.html)
+
 > **TL;DR** — The Claude Code skills ecosystem has a serious supply chain problem.
 > Snyk's [ToxicSkills study (Feb 2026)](https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/)
 > found prompt injection in **36%** of publicly available skills and **1,467 malicious payloads**
