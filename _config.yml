@@ -1,0 +1,10 @@
+title: Claude Skills
+description: Security-vetted Claude Code skills for Cisco datacenter and AI architects
+theme: minima
+author: Trigas
+
+minima:
+  skin: dark
+
+plugins:
+  - jekyll-feed
