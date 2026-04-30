@@ -1,18 +1,24 @@
 ---
-layout: post
-title: "Claude Code Skills — Full Reference Table (All Identified)"
+layout: single
+title: "Claude Code Skills — Full Reference Table"
 date: 2026-04-30
-author: cpedrode
-description: >
-  Complete reference table of all Claude Code skills identified for Cisco datacenter
-  and AI architects. Includes vetted, pending, and flagged entries. Batch validation in progress.
+author_profile: true
+read_time: true
+show_date: true
+toc: true
+toc_sticky: true
+toc_label: "Categories"
+categories:
+  - Reference
 tags:
   - claude-code
   - skills
   - reference
   - security
   - cisco
-  - datacenter
+excerpt: >
+  Complete reference table of all Claude Code skills identified — vetted, pending, and flagged.
+  Batch validation in progress. Companion to the verified skills post.
 ---
 
 # Claude Code Skills — Full Reference Table

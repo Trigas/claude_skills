@@ -1,10 +1,51 @@
 title: Claude Skills
-description: Security-vetted Claude Code skills for Cisco datacenter and AI architects
-theme: minima
-author: Trigas
+subtitle: Security-vetted Claude Code skills for Cisco datacenter & AI architects
+description: >
+  Security-vetted Claude Code skills for Cisco datacenter architects with an AI background.
+  Every skill is evaluated for source trust, GitHub signals, and SKILL.md content.
+url: "https://trigas.github.io"
+baseurl: "/claude_skills"
 
-minima:
-  skin: dark
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: dark
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-sitemap
+  - jekyll-paginate
+
+author:
+  name: Trigas
+  bio: Cisco Datacenter Architect · AI practitioner · Security-first mindset
+  links:
+    - label: GitHub
+      icon: fab fa-fw fa-github
+      url: https://github.com/Trigas
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
+      share: false
+      related: true
+      toc: true
+      toc_sticky: true
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

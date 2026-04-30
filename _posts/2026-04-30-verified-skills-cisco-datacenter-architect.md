@@ -1,22 +1,28 @@
 ---
-layout: post
+layout: single
 title: "Verified Claude Code Skills for Cisco Datacenter & AI Architects"
 date: 2026-04-30
-author: cpedrode
-description: >
-  A security-vetted selection of Claude Code skills for Cisco datacenter architects
-  with an AI background. Each skill was evaluated for source trust, GitHub signals,
-  and SKILL.md content before being included.
+author_profile: true
+read_time: true
+show_date: true
+toc: true
+toc_sticky: true
+toc_label: "Contents"
+categories:
+  - Skills
 tags:
   - claude-code
-  - skills
   - cisco
   - datacenter
   - infrastructure
   - security
-  - ai
   - terraform
   - kubernetes
+header:
+  teaser: /assets/images/skills-header.png
+excerpt: >
+  Security-vetted Claude Code skills for Cisco datacenter architects with an AI background.
+  Every skill passed a 5-point manual security filter before being listed.
 ---
 
 # Verified Claude Code Skills for Cisco Datacenter & AI Architects
